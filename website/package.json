@@ -20,7 +20,7 @@
     "algoliasearch": "4.8.4",
     "bowser": "^2.11.0",
     "classnames": "2.2.6",
-    "d3-scale": "3.3.0",
+    "d3-scale": "4.0.0",
     "d3-shape": "3.1.0",
     "dayjs": "1.10.4",
     "dotenv": "8.2.0",
