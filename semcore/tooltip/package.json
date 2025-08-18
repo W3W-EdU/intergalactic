@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@semcore/utils": "4.44.0",
-    "@semcore/flex-box": "5.39.0",
+    "@semcore/flex-box": "5.41.4",
     "@semcore/popper": "5.45.0",
     "@semcore/portal": "3.39.0"
   },
@@ -32,6 +32,6 @@
     "@types/react": "18.0.21",
     "@semcore/testing-utils": "1.0.0",
     "@semcore/icon": "workspace:*",
-    "@semcore/flex-box": "workspace:*"
+    "@semcore/flex-box": "5.41.4"
   }
 }
